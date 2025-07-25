@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  },
+  "exclude": [
+    "node_modules",
+    "dist",
+    // "src/components/input/DatePicker.vue",
+    // "src/components/input/SearchSelectInput.vue"
+  ]
+}
